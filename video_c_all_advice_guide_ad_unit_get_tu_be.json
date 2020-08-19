@@ -1,14 +1,14 @@
 [
     {
-    "fb_banner" : "300084354539034_300085657872237",
+     "fb_banner" : "300084354539034_300085657872237",
     "fb_interstitial" : "300084354539034_300085581205578",
     "fb_native" : "300084354539034_300085287872274",	
     "fb_mid_rect" : "300084354539034_300085771205559",	
-    "admob_pub_id" : "pub-4886448193373624",
-    "admob_app_id" : "ca-app-pub-4886448193373624~1461391991",
-    "admob_banner" : "ca-app-pub-4886448193373624/1249639004",	
-    "admob_interstitial" : "ca-app-pub-4886448193373624/5948922607",
-    "admob_native" : "ca-app-pub-4886448193373624/8936557337",	
+    "admob_pub_id" : "pub-3702904413119885",
+    "admob_app_id" : "ca-app-pub-3702904413119885~6320820837",
+    "admob_banner" : "ca-app-pub-3702904413119885/9296847272",	
+    "admob_interstitial" : "ca-app-pub-3702904413119885/4719254115",
+    "admob_native" : "ca-app-pub-3702904413119885/7343795134",	
     "ad_type" : "1",
     "new_pkg" : "com.gettube.videocalladvice",
     "is_version" : "false"
