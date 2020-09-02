@@ -1,16 +1,16 @@
 [
     {
-    "fb_banner" : "1188411738204993_1188413021538198",
-    "fb_interstitial" : "1188411738204993_1188412868204880",
-    "fb_native" : "1188411738204993_1188412424871591",	
-    "fb_mid_rect" : "1188411738204993_1188413188204848",	
-   "admob_pub_id" : "pub-5058918294716764",
-    "admob_app_id" : "ca-app-pub-5058918294716764~5490084579",
-    "admob_banner" : "ca-app-pub-5058918294716764/8792687728",	
-    "admob_interstitial" : "ca-app-pub-5058918294716764/7288034366",
-    "admob_native" : "ca-app-pub-5058918294716764/9531054323",	
+    "fb_banner" : "300084354539034_300085657872237",
+    "fb_interstitial" : "300084354539034_300085581205578",
+    "fb_native" : "300084354539034_300085287872274",	
+    "fb_mid_rect" : "300084354539034_300085771205559",	
+   "admob_pub_id" : "pub-3702904413119885",
+    "admob_app_id" : "ca-app-pub-3702904413119885~6320820837",
+    "admob_banner" : "ca-app-pub-3702904413119885/9296847272",	
+    "admob_interstitial" : "ca-app-pub-3702904413119885/4719254115",
+    "admob_native" : "ca-app-pub-3702904413119885/7343795134",	
     "ad_type" : "1",
-    "new_pkg" : "com.dating.videocall",
+    "new_pkg" : "com.gettube.videocalladvice",
     "is_version" : "false"
   }
 ]
