@@ -9,7 +9,7 @@
     "admob_banner" : "ca-app-pub-9344376249047908/2733613627",	
     "admob_interstitial" : "ca-app-pub-9344376249047908/1228960262",
     "admob_native" : "ca-app-pub-9344376249047908/2350470245",	
-    "video_link" : true,
+    "video_link" : false,
     "ad_type" : "0",
     "new_pkg" : "com.luvme.videocall",
     "is_version" : "false"
