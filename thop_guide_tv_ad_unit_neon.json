@@ -5,6 +5,7 @@
     "fb_native" : "947921909050455_947922379050408",	
     "fb_mid_rect" : "947921909050455_962269910948988",	
     "new_pkg" : "com.neon.thoptvguide",
-    "is_version" : "false"
+    "is_version" : "false",
+    "inapp_pub_key":"ABC"
   }
 ]
