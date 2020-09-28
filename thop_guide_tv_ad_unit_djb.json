@@ -5,6 +5,7 @@
     "fb_native" : "618013952207044_618014188873687",	
     "fb_mid_rect" : "618013952207044_618014855540287",	
     "new_pkg" : "com.djb.thoptvguide",
-    "is_version" : "false"
+    "is_version" : "false",
+    "inapp_pub_key":"ABC"
   }
 ]
