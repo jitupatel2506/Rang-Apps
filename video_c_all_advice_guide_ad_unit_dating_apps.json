@@ -10,7 +10,7 @@
     "admob_banner" : "ca-app-pub-5058918294716764/8792687728",	
     "admob_interstitial" : "ca-app-pub-5058918294716764/7288034366",
     "admob_native" : "ca-app-pub-5058918294716764/9531054323",	
-    "video_link" : true,
+    "video_link" : false,
     "is_rand" : false,
     "ad_type" : "0",
     "new_pkg" : "com.dating.videocall",
