@@ -12,6 +12,6 @@
     "ad_type" : "1",
     "startapp_test_mode" : false,
     "new_pkg" : "com.dating.videocalladvice",
-    "is_version" : "true"
+    "is_version" : "false"
   }
 ]
