@@ -1,0 +1,16 @@
+[
+    {
+    "fb_banner" : "356084239049435_356085112382681",
+    "fb_interstitial" : "356084239049435_356084979049361",
+    "fb_native" : "356084239049435_356084722382720",	
+    "fb_mid_rect" : "356084239049435_356085229049336",	
+    "admob_pub_id" : "pub-5411462671957736",
+    "admob_app_id" : "ca-app-pub-5411462671957736~4852809228",
+    "admob_banner" : "ca-app-pub-5411462671957736/2857857811",	
+    "admob_interstitial" : "ca-app-pub-5411462671957736/3876777080",
+    "admob_native" : "ca-app-pub-5411462671957736/1250613749",	
+    "ad_type" : "0",
+    "new_pkg" : "com.oms.videocalladvice",
+    "is_version" : "false"
+  }
+]
