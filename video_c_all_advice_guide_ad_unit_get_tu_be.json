@@ -9,9 +9,8 @@
     "admob_banner" : "ca-app-pub-3702904413119885/9296847272",	
     "admob_interstitial" : "ca-app-pub-3702904413119885/4719254115",
     "admob_native" : "ca-app-pub-3702904413119885/7343795134",
-    "appnext_id" : "bbbf6b9f-da34-4998-a7df-21473089a499";
+    "appnext_id" : "bbbf6b9f-da34-4998-a7df-21473089a499",
     "ad_type" : "0",
-    "startapp_test_mode" : false,
     "new_pkg" : "com.dating.videocalladvice",
     "is_version" : "false"
   }
