@@ -1,17 +1,17 @@
 [
     {
-    "fb_banner" : "784338525721085_784339169054354",
-    "fb_interstitial" : "784338525721085_784339079054363",
-    "fb_rand_interstitial" : "784338525721085_784339079054363",
-    "fb_native" : "784338525721085_784338769054394",	
-    "fb_mid_rect" : "784338525721085_784339239054347",	
+    "fb_banner" : "998161790630695_1045692165877657",
+    "fb_interstitial" : "998161790630695_1045691475877726",
+    "fb_rand_interstitial" : "998161790630695_1045691475877726",
+    "fb_native" : "998161790630695_1045691959211011",	
+    "fb_mid_rect" : "998161790630695_1045692442544296",	
    "admob_pub_id" : "pub-5058918294716764",
     "admob_app_id" : "ca-app-pub-5058918294716764~5490084579",
     "admob_banner" : "ca-app-pub-5058918294716764/8792687728",	
     "admob_interstitial" : "ca-app-pub-5058918294716764/7288034366",
     "admob_native" : "ca-app-pub-5058918294716764/9531054323",	
     "is_rand" : false,
-    "ad_type" : "2",
+    "ad_type" : "0",
     "appnext_id" : "d439d0eb-b050-40ea-a4c9-064f982ae52f",
     "new_pkg" : "com.dating.videocalladvice",
     "is_version" : "false"
