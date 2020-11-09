@@ -1,0 +1,19 @@
+[
+    {
+    "fb_banner" : "388946065793014_388947235792897",
+    "fb_interstitial" : "388946065793014_388946442459643",
+    "fb_rand_interstitial" : "388946065793014_388946442459643",
+    "fb_native" : "388946065793014_388947379126216",
+    "fb_mid_rect" : "388946065793014_388947572459530",
+   "admob_pub_id" : "pub-5058918294716764",
+    "admob_app_id" : "ca-app-pub-5058918294716764~5447461749",
+    "admob_banner" : "ca-app-pub-5058918294716764/2411069011",
+    "admob_interstitial" : "ca-app-pub-5058918294716764/2818263126",
+    "admob_native" : "ca-app-pub-5058918294716764/2821298407",
+    "is_rand" : false,
+    "ad_type" : "0",
+    "appnext_id" : "d439d0eb-b050-40ea-a4c9-064f982ae52f",
+    "new_pkg" : "com.datingapp.callhistory",
+    "is_version" : "false"
+  }
+]
