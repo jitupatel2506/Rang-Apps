@@ -11,7 +11,7 @@
     "admob_native" : "ca-app-pub-2456174232565852/9915690337",
     "is_default_vid" : false,
     "ad_type" : "0",
-    "new_pkg" : "com.neon.snackvideostatus",
-    "is_version" : "true"
+    "new_pkg" : "com.invideo.videocall",
+    "is_version" : "false"
   }
 ]
