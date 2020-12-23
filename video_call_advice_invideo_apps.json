@@ -1,0 +1,17 @@
+[
+    {
+    "fb_banner" : "1802420293254714_1802421359921274",
+    "fb_interstitial" : "1802420293254714_1802420573254686",
+    "fb_native" : "1802420293254714_1802420906587986",
+    "fb_native_banner" : "1802420293254714_1802421049921305",
+    "admob_pub_id" : "pub-2456174232565852",
+    "admob_app_id" : "ca-app-pub-2456174232565852~8498666883",
+    "admob_banner" : "ca-app-pub-2456174232565852/3541853677",
+    "admob_interstitial" : "ca-app-pub-2456174232565852/2228772004",
+    "admob_native" : "ca-app-pub-2456174232565852/9915690337",
+    "is_default_vid" : false,
+    "ad_type" : "0",
+    "new_pkg" : "com.neon.snackvideostatus",
+    "is_version" : "true"
+  }
+]
