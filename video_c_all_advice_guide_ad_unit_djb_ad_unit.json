@@ -9,8 +9,8 @@
     "admob_banner" : "ca-app-pub-8070959747139988/8911529265",	
     "admob_interstitial" : "ca-app-pub-8070959747139988/8518252375",
     "admob_native" : "ca-app-pub-8070959747139988/2346120915",	
-    "appnext_id" : "fb3e39c4-6129-4126-8c39-2f63131f4100",
-    "ad_type" : "1",
+    "appnext_id" : "1168d293-780b-4e1d-9434-e7f9cfb91cf4",
+    "ad_type" : "2",
     "new_pkg" : "com.meu.videocall",
     "is_version" : "false"
   }
