@@ -1,0 +1,19 @@
+{
+    "fb_banner": "130489175589492_130489728922770",
+    "fb_interstitial": "130489175589492_130489355589474",
+    "fb_native": "130489175589492_130489538922789",
+    "fb_mid_rect": "130489175589492_130489778922765",
+    "admob_pub_id": "pub-7816554421395544",
+    "admob_app_id": "ca-app-pub-7816554421395544~3548061253",
+    "admob_banner": "ca-app-pub-7816554421395544/5982652905",
+    "admob_interstitial": "ca-app-pub-7816554421395544/3356489562",
+    "admob_native": "ca-app-pub-7816554421395544/3164917879",
+    "admob_app_open": "ca-app-pub-7816554421395544/8225672862",
+    "appnext_id": "",
+    "is_admob_banner_only": "true",
+    "is_rand": false,
+    "ad_type": "0",
+    "new_pkg": "com.bdj.videocall",
+    "is_version": "false"
+}
+
