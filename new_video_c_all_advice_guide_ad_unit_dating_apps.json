@@ -10,7 +10,7 @@
     "admob_banner" : "ca-app-pub-6710073120136152/3199241735",	
     "admob_interstitial" : "ca-app-pub-6710073120136152/9381506701",
     "admob_native" : "ca-app-pub-6710073120136152/8021975969",
-    "admob_app_open": "ca-app-pub-6710073120136152/8998363320",
+    "admob_app_open": "",
     "is_rand" : true,
     "ad_type" : "1",
     "appnext_id" : "d439d0eb-b050-40ea-a4c9-064f982ae52f",
