@@ -1,0 +1,16 @@
+[
+    {
+    "fb_banner" : "547818476135915_547819139469182",
+    "fb_interstitial" : "547818476135915_547818836135879",
+    "fb_native" : "547818476135915_547818976135865",
+    "fb_native_banner" : "547818476135915_547819042802525",
+    "admob_pub_id" : "pub-9316413372798813",
+    "admob_app_id" : "ca-app-pub-9316413372798813~7407247349",
+    "admob_banner" : "ca-app-pub-9316413372798813/3468002331",
+    "admob_interstitial" : "ca-app-pub-9316413372798813/8528757320",
+    "admob_native" : "ca-app-pub-9316413372798813/5902593988",
+    "ad_type" : "0",
+    "new_pkg" : "com.r2droid.freemusic",
+    "is_version" : "false"
+  }
+]
