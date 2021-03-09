@@ -9,7 +9,7 @@
     "admob_interstitial": "ca-app-pub-7467217962011085/2756835714",
     "admob_native": "ca-app-pub-7467217962011085/7817590703",
     "appnext_id": "",
-    "is_admob_banner_only": "true",
+    "is_admob_banner_only": "false",
     "is_rand": false,
     "ad_type": "0",
     "new_pkg": "com.bdj.videocall",
