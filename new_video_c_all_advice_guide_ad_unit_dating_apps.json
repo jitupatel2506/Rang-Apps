@@ -5,16 +5,16 @@
     "fb_rand_interstitial" : "388359475535827_388359815535793",
     "fb_native" : "388359475535827_388361075535667",	
     "fb_mid_rect" : "388359475535827_388363288868779",	
-   "admob_pub_id" : "pub-5058918294716764",
-    "admob_app_id" : "ca-app-pub-5058918294716764~5490084579",
-    "admob_banner" : "ca-app-pub-5058918294716764/8792687728",	
-    "admob_interstitial" : "ca-app-pub-5058918294716764/7288034366ab",
-    "admob_native" : "ca-app-pub-5058918294716764/9531054323",
+   "admob_pub_id" : "pub-8070959747139988",
+    "admob_app_id" : "ca-app-pub-8070959747139988~5814083163",
+    "admob_banner" : "ca-app-pub-8070959747139988/8228778924",	
+    "admob_interstitial" : "ca-app-pub-8070959747139988/4289533918",
+    "admob_native" : "ca-app-pub-8070959747139988/6724125568",
     "admob_app_open": "",
     "is_rand" : true,
     "ad_type" : "1",
     "appnext_id" : "d439d0eb-b050-40ea-a4c9-064f982ae52f",
-    "new_pkg" : "com.kigo.videocall",
+    "new_pkg" : "com.dating.videocalllive",
     "is_version" : "true"
   }
 ]
