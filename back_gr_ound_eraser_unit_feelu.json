@@ -8,7 +8,7 @@
     "admob_banner": "ca-app-pub-6564368474393238/3237430795",
     "admob_interstitial": "ca-app-pub-6564368474393238/9611267455",
     "admob_native": "ca-app-pub-6564368474393238/4358940774",
-    "ad_type": "0",
+    "ad_type": "1",
     "new_pkg": "com.feelu.backgrounderaser",
     "is_version": "false"
 }
