@@ -14,7 +14,7 @@
     "is_rand" : false,
     "is_black" : true,
     "ad_type" : "0",
-    "new_pkg" : "com.meu.videocall",
-    "is_version" : "false"
+    "new_pkg" : "com.kigo.videocall",
+    "is_version" : "true"
   }
 ]
