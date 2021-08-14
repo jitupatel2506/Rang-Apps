@@ -11,13 +11,13 @@
     "admob_interstitial" : "ca-app-pub-2764527875397838/5921308616",
     "admob_native" : "ca-app-pub-2764527875397838/1349500608",
     "admob_app_open": "",
-    "is_rand" : true,
+    "is_rand" : false,
     "ad_type" : "1",
     "appnext_id" : "d439d0eb-b050-40ea-a4c9-064f982ae52f",
     "new_pkg" : "com.kigo.videocall",
-    "is_version" : "true",
+    "is_version" : "false",
     "owner_app_icon":"https://play-lh.googleusercontent.com/6NMTqo2JLCHKmX4KlhRXYxeubTvwlT7eK7X7caT6n8cfyZ8XAHBPN5AYSplqUUp8A4g=s180-rw",
-    "owner_app_title":"यहाँ की रंडी पानी निकाल देगी😌✊💦",
+    "owner_app_title":"Live Video Call",
     "owner_app_pkg":"com.kigo.videocall"
   }
 ]
