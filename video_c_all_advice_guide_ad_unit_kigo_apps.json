@@ -11,7 +11,7 @@
     "appnext_id": "",
     "is_admob_banner_only": "false",
     "is_rand": false,
-    "ad_type": "1",
+    "ad_type": "0",
     "new_pkg": "com.kigo.videocall",
     "is_version": "false"
 }
