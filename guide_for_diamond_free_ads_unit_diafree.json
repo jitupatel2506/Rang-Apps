@@ -1,7 +1,16 @@
  {
-    "fb_banner" : "453711302676366_453711712676325",
-    "fb_interstitial" : "453711302676366_571446690902826",
-    "fb_native" : "453711302676366_453711572676339",
-    "new_pkg" : "guide.free.diamonds.free.app",
-    "is_version" : "false"
+  "fb_banner": "453711302676366_453711712676325",
+  "fb_interstitial": "453711302676366_571446690902826",
+  "fb_native": "453711302676366_453711572676339",
+  "fb_mid_rect": "453711302676366_453711769342986",
+  "admob_pub_id": "",
+  "admob_app_id": "",
+  "admob_banner": "",
+  "admob_interstitial": "",
+  "admob_native": "",
+  "new_pkg": "abc.xyz",
+  "is_version": "false",
+  "ad_mopub_banner": "ef9871defe7c4ea0abe5950e84cb0692",
+  "ad_mopub_interstitial": "6ebaf0483df04bc8a206f517028a8772",
+  "ad_type": "0"
   }
