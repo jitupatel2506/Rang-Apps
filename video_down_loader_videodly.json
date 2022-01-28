@@ -9,7 +9,7 @@
     "admob_native" : "",
     "ad_mopub_banner": "5d15233912694270bcfdefaa4423c5e1",
     "ad_mopub_interstitial": "3e5eadcc9c4c4dc789da4b0f3b52c3fd",
-    "ad_type" : "2",
+    "ad_type" : "1",
     "new_pkg" : "com.videodly.videodownloader",
     "is_version" : "false"
   }
